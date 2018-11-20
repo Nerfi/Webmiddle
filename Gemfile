@@ -10,4 +10,5 @@ gem 'sassc' #delete in casa it does not worl
 gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'jquery-middleman'
-
+#middleman
+#gem 'middleman-gh-pages'
